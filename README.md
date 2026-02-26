@@ -1,3 +1,12 @@
+# Sashas personal notes
+
+(Better README notes TBD)
+
+Commit and push everything:
+```bash
+npx quartz sync
+```
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
