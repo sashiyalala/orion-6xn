@@ -5,4 +5,7 @@ title: Welcome to my blog!
 hola!
 
 >[!tip] test?
-> this is a test
+> this is a test, this is the NGC 602 star cluster
+![[Pasted image 20260227004406.png]]
+
+:)
