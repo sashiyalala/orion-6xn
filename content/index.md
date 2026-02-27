@@ -6,6 +6,9 @@ tags:
 ---
 
 hola!
+```python
+print("Hola mundo")
+```
 
 >[!tip] test?
 > this is a test, this is the NGC 602 star cluster
