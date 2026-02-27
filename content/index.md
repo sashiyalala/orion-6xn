@@ -1,5 +1,8 @@
 ---
 title: Welcome to my blog!
+tags:
+  - ENG
+  - ESP
 ---
 
 hola!
