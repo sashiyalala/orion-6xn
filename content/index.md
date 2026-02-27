@@ -32,7 +32,7 @@ tags:
 
 hola! Un par de tests para revisar cómo lucen algunas cosas:
 ```python
-print("Hola mundo")
+print("¡Hola mundo! != Hello world!")
 ```
 
 >[!definition] proper time $\Delta\tau$
