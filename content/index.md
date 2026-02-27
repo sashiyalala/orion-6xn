@@ -4,7 +4,7 @@ tags:
   - ENG
   - ESP
 ---
-
+🚧 This is a work in progress // 🚧 Estoy trabajando en ello
 💫                 .         .
 ⠀⠀⠀⠀⠀⠀⠀.　　　. . .　　　　　　　　　　. 　
 
@@ -30,7 +30,7 @@ tags:
 　　　　　⭐︎   
 
 
-hola!
+hola! Un par de tests para revisar cómo lucen algunas cosas:
 ```python
 print("Hola mundo")
 ```
@@ -44,8 +44,8 @@ print("Hola mundo")
 > as the *proper time* between $P$ & $Q$.
 
 
->[!tip] test?
-> this is a test, this is the NGC 602 star cluster
+>[!tip] Callout test & image test
+> This is the NGC 602 star cluster
 ![[Pasted image 20260227004406.png]]
 
 :)
