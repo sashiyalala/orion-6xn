@@ -5,6 +5,9 @@ tags:
   - ESP
 ---
 🚧 This is a work in progress // 🚧 Estoy trabajando en ello
+
+Esto es un post que ya he hecho: [[2026-02-23]]
+
 💫                 .         .
 ⠀⠀⠀⠀⠀⠀⠀.　　　. . .　　　　　　　　　　. 　
 
