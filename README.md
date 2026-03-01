@@ -3,8 +3,17 @@
 (Better README notes TBD)
 
 Commit and push everything:
+
 ```bash
 npx quartz sync
+```
+
+## Deploy locally
+
+Automatic updates on save included:
+
+```bash
+npx quartz build --serve
 ```
 
 # Quartz v4
