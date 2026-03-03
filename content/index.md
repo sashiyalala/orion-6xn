@@ -4,9 +4,11 @@ tags:
   - ENG
   - ESP
 ---
-🚧 This is a work in progress // 🚧 Estoy trabajando en ello
+🚧 This is a work in progress // 🚧 Estoy trabajando en esto
 
-Esto es un post que ya he hecho: [[2026-02-23]]
+Un par de posts:
+- [[2026-02-23]] - exposición de Anders Zorn en la F. Mapfre, Madrid
+- [[2026-03-03]] - fotos a la luna llena
 
 💫                 .         .
 ⠀⠀⠀⠀⠀⠀⠀.　　　. . .　　　　　　　　　　. 　
@@ -30,8 +32,11 @@ Esto es un post que ya he hecho: [[2026-02-23]]
 　　　　　.　　　　　　　✨　　　⠀★
 　˚　　　　　　　　　　　　　　
 ★⠀ 　　　　　　　　　　.　　　　　　　　
-　　　　　⭐︎   
+　　　　　⭐︎
 
+
+>[!info] RSS feed
+> https://sashiyalala.github.io/orion-6xn/index.xml
 
 hola! Un par de tests para revisar cómo lucen algunas cosas:
 ```python
