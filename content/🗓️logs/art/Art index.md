@@ -25,3 +25,6 @@ aliases:
 ## Portraits at [[Espacio Retrato]]
 - [[2026-03-14]]
 - [[2026-03-21]]
+
+## Others
+- [[2026-04-01#Dibu]] - Clothes study
