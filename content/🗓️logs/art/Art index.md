@@ -22,9 +22,13 @@ aliases:
 - [[2026-03-31]] - 2 sessions of 45min
 - [[2026-04-01]] - 1 session of 45min + a 45min session of 2min poses
 
-## Portraits at [[Espacio Retrato]]
+## @ Espacio 101
+### Portraits at [[Espacio Retrato]]
 - [[2026-03-14]]
 - [[2026-03-21]]
+### Life-drawing Carabanchel
+- [[2026-04-03]]
 
 ## Others
 - [[2026-04-01#Dibu]] - Clothes study
+- [[2026-04-03#Madrugada]] - Random portrait study of Andrew Garfield
