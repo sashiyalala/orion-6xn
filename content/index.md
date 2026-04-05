@@ -4,11 +4,9 @@ tags:
   - ENG
   - ESP
 ---
-🚧 This is a work in progress // 🚧 Estoy trabajando en esto
+🚧 This is a work in progress // 🚧 Estoy trabajando en esto -> [[To-do]]
 
 Un par de posts:
-- [[2026-02-23]] - exposición de Anders Zorn en la F. Mapfre, Madrid
-- [[2026-03-03]] - fotos a la luna llena
 - [[Art index]] - listado de todos mis posts sobre dibujos que haga
 
 💫                 .         .
