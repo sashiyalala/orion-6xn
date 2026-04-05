@@ -8,6 +8,7 @@ tags:
 
 >[!todo]
 > Find original image with full-resolution and source 
+¿¿¿ https://x.com/NASA/status/2040393011616452726 ???
 
 >[!idea]
 > Coloured pencils on **black** paper
