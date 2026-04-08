@@ -6,9 +6,9 @@ tags:
 
 ![[Pasted image 20260405173840.png]]
 
->[!todo]
+>[!todo]  DONE✅
 > Find original image with full-resolution and source 
-¿¿¿ https://x.com/NASA/status/2040393011616452726 ???
+> https://www.nasa.gov/image-detail/amf-art002e004440/
 
 >[!idea]
 > Coloured pencils on **black** paper
