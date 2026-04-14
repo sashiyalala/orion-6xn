@@ -15,3 +15,7 @@ tags:
 > tal que $c_{1} + c_{2} + \dots + c_{k} = 1$ y $c_{i} \geq 0$, $\forall i = 1,\dots, k$.
 > El conjunto de todas las posibles combinaciones convexas de un conjunto de elementos $S= \{v_{1}, v_{2},\dots, v_{k}\}$ se llama **envolvente convexa de $S$**, denotada por $conv(S)$.
 
+---
+# Bibliografía
+
+https://broman.dev/download/Linear%20Algebra%20and%20its%20Applications%205th%20Edition.pdf
