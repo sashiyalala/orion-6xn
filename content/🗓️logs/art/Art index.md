@@ -21,7 +21,7 @@ aliases:
 - [[2026-03-30]] - 2 sessions of 45min + a 45min session of 2min poses
 - [[2026-03-31]] - 2 sessions of 45min
 - [[2026-04-01]] - 1 session of 45min + a 45min session of 2min poses
-
+- [[2026-04-13#Dibujo al natural]] - ~1h
 ## @ Espacio 101
 ### Portraits at [[Espacio Retrato]]
 - [[2026-03-14]]
