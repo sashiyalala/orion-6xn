@@ -13,7 +13,7 @@ Un par de temas // *A few themes*
 - Zines
 	- [[🛸✍️fanzines📑✂️]]
 - Journaling
-	- [[My first travel journal]] alt. [[My first travel journal|My primer cuaderno viajero (¡no de viaje!)]] 
+	- [[My first travel journal]] alt. [[My first travel journal|My primer cuaderno viajero (¡no de viaje!)]]
 
 💫                 .         .
 ⠀⠀⠀⠀⠀⠀⠀.　　　. . .　　　　　　　　　　. 　

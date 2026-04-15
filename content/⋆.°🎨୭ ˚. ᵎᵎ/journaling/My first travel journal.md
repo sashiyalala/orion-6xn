@@ -65,7 +65,7 @@ This is how it looked after I cut out all the images I wanted to put across all 
 ![[IMG_20260219_0004.jpg]]
 I am very happy I found out about the vampire Pingu image, I don't remember seeing it before, very cute!!!
 
-> ¡Es un ser de la noche! *He's a creature of the night!*🦇
+>[!quote] ¡Es un ser de la noche!🦇 // He's a creature of the night!🦇
 
 Also ugh, I wish I had infinite Pingu stamps for all my letters and packages.
 # Commonplace entries
