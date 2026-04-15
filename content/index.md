@@ -4,11 +4,16 @@ tags:
   - ENG
   - ESP
 ---
-🚧 This is a work in progress // 🚧 Estoy trabajando en esto -> [[To-do]]
+🚧 This is a work in progress // 🚧 Estoy trabajando en esto
 
-Un par de posts:
-- [[Art index]] - Todos mis posts sobre dibujos que voy haciendo
-- [[Art studies I want to prioritize]] - Lista de planes de dibujos que quiero hacer enteros
+Un par de temas // *A few themes*
+- Art
+	- [[Art index]] - Todos mis posts sobre dibujos // *All my posts about drawing*
+	- [[Art studies I want to prioritize]] - Lista de estudios que quiero hacer // *List of art studies I want to work on*
+- Zines
+	- [[🛸✍️fanzines📑✂️]]
+- Journaling
+	- [[My first travel journal]] alt. [[My first travel journal|My primer cuaderno viajero (¡no de viaje!)]] 
 
 💫                 .         .
 ⠀⠀⠀⠀⠀⠀⠀.　　　. . .　　　　　　　　　　. 　
