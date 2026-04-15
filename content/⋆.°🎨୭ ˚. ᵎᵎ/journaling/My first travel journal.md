@@ -17,7 +17,7 @@ I ended up deciding to paint something abstract on the cover. That's one of my f
 
 >[!info] Writing material
 > Most of the text was written with my *Pilot Kaküno* with an $<EF>$ nib, inked with *De Atramentis Document Ink - Urban Grey*.
-> Very sparsly, I added some minor details/titles with my *TWSBI Eco* with a $<Stub \,\, 1.1>$ nib, inked with *Kobe Ink - Hydrangea*.
+> Very sparsely, I added some minor details/titles with my *TWSBI Eco* with a $<Stub \,\, 1.1>$ nib, inked with *Kobe Ink - Hydrangea*.
 # Cover
 At first, I did a random sketch on the front cover. I used a washi tape roll to get a sort of circumference right. The rest I free-handed. I remember a few years ago I really liked drawing these sort of clouds, fumes and fluids by hand and colouring them in with watercolour. I really liked the attention to detail put into colouring them between the lines.
 ![[IMG_20260212_003536.jpg]]
@@ -42,10 +42,11 @@ I really like my stamps too.
 I would say it ended up somewhere between minimalistic and eclectic. Non-sensical for sure.
 
 # Welcoming and instructions
-I barely knew anyone in the travel journal group I was added. I had a clear idea of what I wanted to do but I was quite wary of imposing my style on others, and as a way to introduce myself via journaling, 
+I barely knew anyone in the travel journal group I was added. I had a clear idea of what I wanted to do but I was quite wary of imposing my style on to others, and as a way to introduce myself via journaling, I redacted a couple of pages.
 ![[IMG_20260219_000712~3.jpg]]
 A small progress picture with a small cute print of Pingu that I ended up not using. At the time of writing this, it lives on my refrigerator door.
-I redacted quite the long text. Here it is (in Spanish)
+
+Here is the end result (in Spanish)
 ![[IMG_20260219_0003.jpg]]
 My modus operandi for decoration tends to be a combination of: 
 - stickers
@@ -73,7 +74,7 @@ Also ugh, I wish I had infinite Pingu stamps for all my letters and packages.
 As I said, I decided to dedicate my spreads to the instruments of the JWST. I decided to learn about the most used ones in regards to photography's, so I chose at least a picture that was made for each of the instruments.
 ### Investigation and text preparation
 
-First of all, I redacted my text. I did want to make it educational and well-done, so I took the task as proper investigation and I gathered notes from a few official sources, mostly NASA. I wrote everything down in a digital document and then I started working on the pages.
+First of all, I redacted my text. I did want to make it educational and accurate, so I took the task as proper investigation and I gathered notes from a few official sources, mostly NASA. I wrote everything down in a digital document and then I started working on the pages.
 ![[IMG_20260216_174850~2.jpg]]
 Every source is cited in the pages.
 
