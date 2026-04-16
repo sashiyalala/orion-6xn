@@ -6,6 +6,16 @@ tags:
 ---
 🚧 This is a work in progress // 🚧 Estoy trabajando en esto
 
+
+# ⋆｡𖦹°recent highlights⭒˚｡⋆ 
+
+- 2026-04-16 - 🇪🇸 - [[2026-04-16#Taller de retrato en el Museo ABC Con un seis y un cuatro, con Fernando Vicente]] #art
+- 2026-04-15 - 🇪🇸 - [[2026-04-15#Dibujo al natural|Sesión de 45min de dibujo al natural]] #art #cba 
+- 2026-04-15 - 🇬🇧 - [[My first travel journal]] #journaling 
+- 2026-04-13 - 🇪🇸 -[[2026-04-13#Libro Siete breves lecciones sobre la física|Un par de apuntes y divagaciones tras leerme "Siete breves lecciones sobre la física" en una tarde]] #book #physics #quantum #relativity 
+
+---
+# Organization/ción
 Un par de temas // *A few themes*
 - Art
 	- [[Art index]] - Todos mis posts sobre dibujos // *All my posts about drawing*
