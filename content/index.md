@@ -12,6 +12,7 @@ tags:
 - 2026-04-26 - 🇪🇸 - [[2026-04-26#Ejercicio de dibujar a Ryland Grace en grafito]] #art
 - 2026-04-25 - 🇪🇸 - [[2026-04-25|Espacio de retrato]] #art #espacio-retrato 
 - 2026-04-23 - 🇪🇸 - [[2026-04-23#Un regalo de Sant Jordi]] #art 
+- 2026-04-22 - 🇪🇸 - [[2026-04-22 |Un par de fotitos de mala calidad a la Luna creciente junto a Júpiter]] #astronomy #photography 
 - 2026-04-15 - 🇬🇧 - [[My first travel journal]] #journaling 
 - 2026-04-13 - 🇪🇸 -[[2026-04-13#Libro Siete breves lecciones sobre la física|Un par de apuntes y divagaciones tras leerme "Siete breves lecciones sobre la física" en una tarde]] #book #physics #quantum #relativity 
 
