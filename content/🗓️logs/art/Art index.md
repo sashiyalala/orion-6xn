@@ -27,6 +27,7 @@ aliases:
 ### Portraits at [[Espacio Retrato]]
 - [[2026-03-14]]
 - [[2026-03-21]]
+- [[2026-04-25]]
 ### Life-drawing Carabanchel
 - [[2026-04-03]]
 
