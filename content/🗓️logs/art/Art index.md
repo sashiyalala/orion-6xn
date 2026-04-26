@@ -34,3 +34,4 @@ aliases:
 - [[2026-04-01#Dibu]] - Clothes study
 - [[2026-04-03#Madrugada]] - Random portrait study of Andrew Garfield
 - [[2026-04-16#Taller de retrato en el Museo ABC Con un seis y un cuatro, con Fernando Vicente]] - (ENG) Portrait session at the ABC Museum by illustrator Fernando Vicente
+- [[2026-04-26#Ejercicio de dibujar a Ryland Grace en grafito]] (ESP)
