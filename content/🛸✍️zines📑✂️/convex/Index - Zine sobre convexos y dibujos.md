@@ -11,3 +11,6 @@ aliases:
 	- *Suena más a **paper***
 - Envolvente convexa: una carta de amor al dibujo
 	- Más romántico. No termina de dejar claro que es simplemente una de las muchas maneras en las que se puede abordar el dibujo
+- La envolvente conexa como aproximación al dibujo
+
+💡[[2026-04-17]]

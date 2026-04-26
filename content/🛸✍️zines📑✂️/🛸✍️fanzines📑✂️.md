@@ -15,3 +15,7 @@ Región donde organizar mi trabajo para hacer zines.
 Registro de apuntes que hago sobre mi trabajo sobre zines en mis notas diarias:
 
 - [[2026-04-14#Zine log 2026-04-14]]
+# 📝Notas / Notes
+
+Gracias a May por compartir su recopilación de material conmigo💝
+*Thanks to May for sharing all her materials with me💝*
