@@ -2,6 +2,9 @@
 aliases:
   - "Envolvente convexa: una carta de amor al dibujo"
 ---
+
+>[!tip]
+>Referencia para conexos, teoría de mates: https://broman.dev/download/Linear%20Algebra%20and%20its%20Applications%205th%20Edition.pdf
 # Título
 
 >[!question] ¿Título?
